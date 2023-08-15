@@ -1,0 +1,51 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "tokens": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    },
+    "ner_tags": {
+      "feature": {
+        "names": [
+          "B_DAT",
+          "B_EVE",
+          "B_FAC",
+          "B_LOC",
+          "B_MON",
+          "B_ORG",
+          "B_PCT",
+          "B_PER",
+          "B_PRO",
+          "B_TIM",
+          "I_DAT",
+          "I_EVE",
+          "I_FAC",
+          "I_LOC",
+          "I_MON",
+          "I_ORG",
+          "I_PCT",
+          "I_PER",
+          "I_PRO",
+          "I_TIM",
+          "O"
+        ],
+        "_type": "ClassLabel"
+      },
+      "_type": "Sequence"
+    },
+    "ner_tags_names": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}
