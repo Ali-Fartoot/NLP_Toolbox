@@ -12,4 +12,4 @@ ROUGE-1 ->  29.83
 ROUGE-2 ->  17.4
 ROUGE-L ->  21.95
 
-*** Note that model will perform better with training in more steps/epochs
+**Note that model will perform better with training in more steps/epochs.**
